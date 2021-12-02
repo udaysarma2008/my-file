@@ -1,0 +1,29 @@
+h1 {
+    color: brown;
+}
+
+/* * {
+    border: solid;
+}*/
+.header{ 
+    background-color: aqua;
+    display : flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: crimson;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background-color: limegreen;
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    word-spacing: 30px;
+}
+
+ 
